@@ -5,14 +5,14 @@ I’m a Computer Science student at The City College of New York (graduating May
 ## Projects
 
 ### ☝️ [Skytouch](https://github.com/kekcodenoob/skytouch)
-An aerial digital canvas and image editor. You draw, create shapes, and edit images with hand gestures, with real-time filters (Sobel edges, thermal, pixelation) on selected regions. Sessions export to .png/.avi.
+An aerial digital canvas and image editor. You draw, create shapes, and edit images with hand gestures, with real-time filters (Sobel edges, thermal, pixelation) on selected regions. Sessions export to .png/.mp4.
 
 **Tech:** Python, OpenCV, MediaPipe
 
 ### 🐾 [Kurou Pet](https://github.com/kekcodenoob/kurou-pet)
-A desktop pet that helps you stay focused. It tracks distraction windows, closes them, and rewards focused work. I built the FastAPI backend that stores user metrics and serves them to the team's web dashboard. Built with a team of 4 in the ACM Builds cohort.
+A desktop pet that rewards focus and exercise. It notices when you switch to a distracting app or site and pulls you back to your work, scores focus sessions with face tracking, and counts workout reps with form checks using webcam pose tracking. I built the pet app, its reward system, and the workout tracker, and connected it to a FastAPI backend that serves user metrics to the team's web dashboard. Built with a team of 4 in the ACM Builds cohort.
 
-**Tech:** Python, FastAPI, PyQt5, PyWinCtl, MediaPipe
+**Tech:** Python, FastAPI, PyQt5, PyWinCtl, MediaPipe, React
 
 ## Technologies
 Python · C++ · SQL · FastAPI · PyQt5 · OpenCV · MediaPipe · BigQuery · Google Cloud · Git
