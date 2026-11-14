@@ -9,7 +9,7 @@ An aerial digital canvas and image editor. You draw, create shapes, and edit ima
 
 **Tech:** Python, OpenCV, MediaPipe
 
-### 🐾 [Kurou Pet](https://github.com/acm-ccny/kurou-pet)
+### 🐾 [Kurou Pet](https://github.com/kekcodenoob/kurou-pet)
 A desktop pet that helps you stay focused. It tracks distraction windows, closes them, and rewards focused work. I built the FastAPI backend that stores user metrics and serves them to the team's web dashboard. Built with a team of 4 in the ACM Builds cohort.
 
 **Tech:** Python, FastAPI, PyQt5, PyWinCtl, MediaPipe
